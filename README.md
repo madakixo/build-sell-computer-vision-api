@@ -13,7 +13,12 @@ We will be using an image classifier I trained with Yolov8. The model was traine
 
 ### model performance
 
+The model was successfully trained for 30 epochs achieving a ~96% accuracy.
 
+<p align="center">
+    <img width="600" src="./results.png" alt="Model performance">
+    </br> Model performance. Validation and training loss during the training process </br> and validation accuracy. Accuracy is around 96%.
+</p>
 
 ## server setup
 
